@@ -1,0 +1,1 @@
+This is a simple task manager built using PHP and MySQL as a mini project for our web technologies subject.
